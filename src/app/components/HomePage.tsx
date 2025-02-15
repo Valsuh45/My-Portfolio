@@ -12,9 +12,9 @@ const HomePage = () => {
                 I am a FullStack Developer
                 </h2>
                 <p className='text-gray-500 py-4 max-w-md'>
-                I have 1 year of experiece building, designing and maintaining software appllications
+                I have 2 years of experiece building, designing and maintaining software applications
                 Currently, I work on web and mobile applications using the technologies
-                NextJs (React JS), Tailwind css, TypeScript, Neo4j, firebase and mongoDB
+                NextJs (React JS), Tailwind css, TypeScript, Java, Postgres and Neo4j
                 </p>
                 <div>
                     <button className='text-white text-6xl w-fit font-signature px-6 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500

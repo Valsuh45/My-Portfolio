@@ -23,7 +23,7 @@ function NavBar() {
         },
         {
             id: 3,
-            link: 'portfolio'
+            link: 'contributions',
         },
         {
             id: 4,

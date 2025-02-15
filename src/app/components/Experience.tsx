@@ -6,6 +6,8 @@ import typeScript from  '../assets/LaguageAssets/TypescriptLogo.png';
 import nodejs from  '../assets/LaguageAssets/NodeJS.png';
 import git from  '../assets/LaguageAssets/git.jpg';
 import Java from '../assets/LaguageAssets/Java.png';
+import Docker from '../assets/LaguageAssets/Docker.jpg';
+import Postgres from '../assets/LaguageAssets/Postgres.png';
 import JavaScript from '../assets/LaguageAssets/JavaScript.png';
 
 const Experience = () => {
@@ -53,6 +55,18 @@ const Experience = () => {
             image: Java,
             title: 'Java',
             style: 'shadow-red-700'
+        },
+        {
+            id: 10,
+            image: Docker,
+            title: 'Docker',
+            style: 'shadow-blue-700'
+        },
+        {
+            id: 10,
+            image: Postgres,
+            title: 'PostgreSQL',
+            style: 'shadow-orange-700'
         }
        
      

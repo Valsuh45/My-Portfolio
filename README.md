@@ -1,7 +1,18 @@
-Portfolio web application created by Esum Brandon Oben
+Portfolio web application created by Fuh Valantine Suh
 ## Getting Started
 
-First, run the development server:
+First, install the dep
+```bash
+npm install
+# or
+yarn install
+# or
+pnpm install
+# or
+bun install
+```
+
+Second, run the development server:
 
 ```bash
 npm run dev
