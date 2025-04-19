@@ -12,7 +12,7 @@ const HomePage = () => {
                 I am a FullStack Developer
                 </h2>
                 <p className='text-gray-500 py-4 max-w-md'>
-                I have 2 years of experiece building, designing and maintaining software applications
+                I have 2 years of experiece building, designing and maintaining software applications.
                 Currently, I work on web and mobile applications using the technologies
                 NextJs (React JS), Tailwind css, TypeScript, Java, Postgres and Neo4j
                 </p>
